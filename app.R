@@ -1,12 +1,6 @@
 #
-# This is a Shiny web application. You can run the application by clicking
-# the 'Run App' button above.
+### This is is a Shiny app - this file needs to be renamed app.R, and placed in a folder with the relevant CSVs - for this app, it's country_coords.csv, country-capitals.csv, pridata.csv and rem_tot.csv. 
 #
-# Find out more about building applications with Shiny here:
-#
-#    http://shiny.rstudio.com/
-#
-
 
 library(shiny)
 library(tidyverse)
